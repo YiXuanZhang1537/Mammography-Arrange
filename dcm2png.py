@@ -1,3 +1,4 @@
+# This is the code that can convert DCM files to PNG files.
 import os
 
 import pydicom
